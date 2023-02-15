@@ -2,8 +2,9 @@
 
 Game: Guessing a random number in 5 trials
 
-My first iOS app building project.
+My first iOS app building project(Jan. 2023.).
 Used Storyboard for UI.
+
 
 Thanks to yagom for offering great tutorials for free.
 
